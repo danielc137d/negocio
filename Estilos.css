@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+}
+body{
+	background: grey;
+}
+h1{
+	text-align: center;
+	front-size: 300px;
+	color: white;
+}
+header{
+
+	padding: 200px 0;
+	background-image:url(pizza4.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center;
+}
+img{
+	width: 100%;
+}
+.tarjeta{
+	margin: 20px 0;
+	
+	width: 300px;
+	border-radius: 10px;
+	background-color: white;
+	text-align: center;
+	padding: 15px 15px;
+}
+
+footer{
+	padding: 50px 0;
+	text-align: center;
+	color: black;
+	background: black;}
+
+
+footer a{
+	text-decoration: none;
+	color: white;
+	front-size: 25px;
+}
+section{
+	width: 300px;
+	margin: 0 auto;
+}
+.general{
+	front-size: 40px;
+	text-align: center;
+	margin: 50px 0;
+}
+
+.titulo{
+	font-size: 100px;
+	color: black;
+}
